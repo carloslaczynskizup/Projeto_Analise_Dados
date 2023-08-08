@@ -2,7 +2,7 @@
 
 # instalar:
 # pandas - integração com o excel e o python (digitar no terminal o comando pip install pandas)
-# openyxl - integração com o excel e o python (digitar no terminal o comando pip install openpyxl)
+# openyxl - integração com o excel e o python (digitar no terminal o comando pip install openyxl)
 # twilio - integração com o sms e o Python (digitar no terminal o comando pip install twilio)
 
 from twilio.rest import Client
