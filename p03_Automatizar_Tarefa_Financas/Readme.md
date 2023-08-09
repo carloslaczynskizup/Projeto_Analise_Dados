@@ -38,6 +38,10 @@ plt.ylabel("Preço de Fechamento")
 plt.show()
 ```
 
+Abaixo segue a plotagem:
+
+![Figure_1.png](Figure_1.png)
+
 Certifique-se de executar o código em um ambiente de desenvolvimento Python, como o Jupyter Notebook, o Visual Studio Code ou qualquer outro ambiente compatível com a exibição de gráficos.
 
 Agora você tem um guia básico sobre como buscar informações da bolsa de valores usando a biblioteca `yfinance` e plotar um gráfico de fechamento usando a biblioteca `matplotlib`.
