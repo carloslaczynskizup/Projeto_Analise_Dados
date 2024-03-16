@@ -1,4 +1,4 @@
-### Projeto Pessoal Python :snake:
+### Projeto Pessoal para Análise de Dados :snake:
 
 
 🚧 Projeto em construção 🚧
@@ -7,7 +7,7 @@
 #### Descrição do Projeto
 Aqui estão centralizados os meus códigos em treinamento dos exercícios propostos para o desenvolvimento.
 
-Pretendo desenvolver Python para a Análise de dados.
+Pretendo desenvolver Análise de Dados...
 
 #### Tecnologias utilizadas
-Utilizando a tecnologia Python com a IDE IntelliJ.
+...
